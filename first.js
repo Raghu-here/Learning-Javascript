@@ -76,3 +76,5 @@ console.log("theString is =" ,str);
 console.log(str[0]);
 console.log(str[7]);
 console.log(str.length);
+//Array 
+
