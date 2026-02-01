@@ -15,8 +15,8 @@ student["marks"] = student["marks"] + 1; // vaule changing in object
 // console.log(student.marks);
 
 // logical opertor
-let a=5;
-let b=2;
+let a = 5;
+let b = 2;
 let cond1 = a > b;
 let cond2 = a == 4;
 console.log("cond1&&cond2 =", cond1 && cond2);
@@ -72,9 +72,11 @@ for (let key in student) {
 // Strings
 
 let str = "Apna College";
-console.log("theString is =" ,str);
+console.log("theString is =", str);
 console.log(str[0]);
 console.log(str[7]);
 console.log(str.length);
-//Array 
 
+//Array
+let marks = [74, 23, 23, 34, 23];
+console.log(marks);
