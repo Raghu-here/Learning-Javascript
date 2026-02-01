@@ -11,9 +11,6 @@ console.log(output);
 
 student["marks"] = student["marks"] + 1; // vaule changing in object
 
-// console.log(student.age);
-// console.log(student.marks);
-
 // logical opertor
 let a = 5;
 let b = 2;
@@ -33,15 +30,6 @@ if (number % 2 == 0) {
   console.log("Enter the valid number ");
 }
 
-// // Pratice Question
-// let num = prompt("Enter Your Number:");
-
-// if (num % 5 == 0) {
-//   console.log("The number is divisble by 5");
-// } else {
-//   console.log("The number is not divisible by 5");
-// }
-
 // Loops and srtings
 let sum = 0;
 for (let i = 1; i <= 5; i++) {
@@ -54,16 +42,6 @@ while (i <= 5) {
   console.log("i is=", i);
   i++;
 }
-
-// // for-of loop
-// let str = "Raghu";
-// let size = 0;
-// for (let i of str) {
-//   console.log("i=", i);
-//   size++;
-// }
-// console.log("str size is =", size);
-
 // for-in loop
 for (let key in student) {
   console.log("Key is = ", key, "value=", student[key]);
@@ -78,5 +56,13 @@ console.log(str[7]);
 console.log(str.length);
 
 //Array
-let marks = [74, 23, 23, 34, 23];
-console.log(marks);
+
+let cities = ["delhi", "mumbai", "hisar", "kolkata"];
+cities.push("haryana","punjab");
+for (let city of cities) {
+  console.log(city);
+}
+
+console.log(cities.toString());
+console.log(cities.slice(1 ,3));
+console.log(cities.splice(2,0,"dubai"));
