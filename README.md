@@ -47,8 +47,6 @@ Writing if, else if, and else blocks.
 
 Understanding truthy and falsy values.
 
-Using switch statements for cleaner multi-condition logic.
-
 Date: January 30, 2026
 
 📝 Overview
@@ -93,5 +91,6 @@ Storing Lists: Managing a list of products for an e-commerce site (like my Amazo
 Data Organization: Handling user information or game stats for my projects.
 
 Dynamic UI: Using .map() to render multiple components in a front-end framework.
+
 
 
