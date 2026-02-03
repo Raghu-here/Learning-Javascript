@@ -91,6 +91,30 @@ Data Organization: Handling user information or game stats for my projects.
 
 Dynamic UI: Using .map() to render multiple components in a front-end framework.
 
+🚀 JavaScript Fundamentals: Functions & Methods
 
+📅 Date: February 3, 2026
+
+📝 Overview
+Today, I dived deep into the core of programming logic by mastering Functions and Function Methods. Understanding how to encapsulate code for reuse is a fundamental skill in my journey as a developer.
+
+🧠 What I Learned
+1. Functions
+I learned how to declare and invoke functions to keep my code DRY (Don't Repeat Yourself).
+
+Function Declarations: Defining named functions.
+
+Arrow Functions: Using modern, concise syntax.
+
+Parameters & Arguments: Passing data into functions to make them dynamic.
+
+2. Function Methods
+I explored how functions work when they are attached to objects or used to manipulate data types.
+
+Definition: A method is essentially a function that lives inside an object.
+
+Built-in Methods: Practiced using common methods like .toUpperCase(), .push(), and .map().
+
+Context (this): Understanding how methods interact with their parent objects.
 
 
