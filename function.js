@@ -27,3 +27,22 @@ function countvowels(str) {
   }
   console.log(count);
 }
+
+// For each in function
+let arr = [1, 2, 3, 4, 5];
+arr.forEach(function printval(val) {
+  console.log(val * val);
+});
+
+// map method
+let Newarr = arr.map((val) => {
+  return val * 2;
+});
+console.log(Newarr);
+
+// filter method
+
+let Newarr2 = arr.filter((val) => {
+  return val % 2 === 0;
+});
+console.log(Newarr2);
