@@ -88,8 +88,6 @@ Data Organization: Handling user information or game stats for my projects.
 
 Dynamic UI: Using .map() to render multiple components in a front-end framework.
 
-🚀 JavaScript Fundamentals: Functions & Methods
-
 📅 Date: February 3, 2026
 
 📝 Overview
@@ -113,6 +111,7 @@ Definition: A method is essentially a function that lives inside an object.
 Built-in Methods: Practiced using common methods like .toUpperCase(), .push(), and .map().
 
 Context (this): Understanding how methods interact with their parent objects.
+
 
 
 
