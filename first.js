@@ -63,6 +63,6 @@ for (let city of cities) {
   console.log(city);
 }
 
-console.log(cities.toString());
+// console.log(cities.toString());
 console.log(cities.slice(1 ,3)); 
 console.log(cities.splice(2,0,"dubai"));
