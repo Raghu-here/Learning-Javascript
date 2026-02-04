@@ -19,9 +19,6 @@ Properties: Understanding how Keys and Values work together.
 
 Accessing Data: Using Dot notation and Bracket notation to retrieve information.
 
-🛠️ Current Projects
-Practice Exercises: Small scripts testing variable manipulation.
-
 "The best way to learn a new language is to build something with it." 💻
 
 🚀 Today's Progress
@@ -116,5 +113,6 @@ Definition: A method is essentially a function that lives inside an object.
 Built-in Methods: Practiced using common methods like .toUpperCase(), .push(), and .map().
 
 Context (this): Understanding how methods interact with their parent objects.
+
 
 
