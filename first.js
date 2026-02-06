@@ -37,11 +37,11 @@ for (let i = 1; i <= 5; i++) {
 }
 console.log("Sum is :", sum);
 
-let i = 1;
-while (i <= 5) {
-  console.log("i is=", i);
-  i++;
-}
+// let i = 1;
+// while (i <= 5) {
+//   console.log("i is=", i);
+//   i++;
+// }
 // for-in loop
 for (let key in student) {
   console.log("Key is = ", key, "value=", student[key]);
