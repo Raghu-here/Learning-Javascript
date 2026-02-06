@@ -109,8 +109,6 @@ Definition: A method is essentially a function that lives inside an object.
 
 Built-in Methods: Practiced using common methods like .toUpperCase(), .push(), and .map().
 
-Context (this): Understanding how methods interact with their parent objects.
-
 
 
 
