@@ -18,7 +18,7 @@ let cond1 = a > b;
 let cond2 = a == 4;
 console.log("cond1&&cond2 =", cond1 && cond2);
 console.log("cond1||cond2 =", cond1 || cond2);
-console.log("cond1&&cond2 =", !(cond1 && cond2));
+console.log("cond1&&cond2 =", (cond1 && cond2));
 
 // Conditional Statements
 let number = 10;
