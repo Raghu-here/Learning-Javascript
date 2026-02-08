@@ -15,7 +15,7 @@ student["marks"] = student["marks"] + 1; // vaule changing in object
 let a = 5;
 let b = 2;
 let cond1 = a > b;
-let cond2 = a == 4;
+let cond2 = a == 5;
 console.log("cond1&&cond2 =", cond1 && cond2);
 console.log("cond1||cond2 =", cond1 || cond2);
 console.log("cond1&&cond2 =", (cond1 && cond2));
