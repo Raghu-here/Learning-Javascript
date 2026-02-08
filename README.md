@@ -19,8 +19,6 @@ Properties: Understanding how Keys and Values work together.
 
 Accessing Data: Using Dot notation and Bracket notation to retrieve information.
 
-"The best way to learn a new language is to build something with it." 💻
-
 🚀 Today's Progress
 Today, I dived deeper into JavaScript fundamentals to strengthen my logic-building skills for web development. I focused on how data is manipulated and how programs make decisions.
 
@@ -38,8 +36,6 @@ Logical ( &&, ||, ! )
 Conditional Statements:
 
 Writing if, else if, and else blocks.
-
-Understanding truthy and falsy values.
 
 Date: January 30, 2026
 
