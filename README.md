@@ -4,6 +4,7 @@ Welcome to my JavaScript repository! I am an aspiring developer currently docume
 📚 What I've Learned So Far
 
 1. Variables & Data Types
+
    Understanding how to store and manipulate data is the foundation of everything.
 
 Variable Declaration: Mastered let, const, and the differences between them (and why we generally avoid var).
@@ -11,6 +12,7 @@ Variable Declaration: Mastered let, const, and the differences between them (and
 Data Types: Explored Primitives like Strings, Numbers, Booleans, Null, and Undefined.
 
 2. Objects & Key-Value Pairs
+
    I’ve moved into more complex data structures to represent real-world entities.
 
 Object Syntax: Learned how to group related data using {}.
@@ -23,6 +25,7 @@ Accessing Data: Using Dot notation and Bracket notation to retrieve information.
 Today, I dived deeper into JavaScript fundamentals to strengthen my logic-building skills for web development. I focused on how data is manipulated and how programs make decisions.
 
 🧠 Concepts Covered
+
 Operators:
 
 Arithmetic ( +, -, \*, /, % )
