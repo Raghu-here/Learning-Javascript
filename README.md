@@ -107,7 +107,6 @@ I explored how functions work when they are attached to objects or used to manip
 
 Definition: A method is essentially a function that lives inside an object.
 
-Built-in Methods: Practiced using common methods like .toUpperCase(), .push(), and .map().
 
 
 
