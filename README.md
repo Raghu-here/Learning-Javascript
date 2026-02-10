@@ -90,9 +90,11 @@ Dynamic UI: Using .map() to render multiple components in a front-end framework.
 📅 Date: February 3, 2026
 
 📝 Overview
+
 Today, I dived deep into the core of programming logic by mastering Functions and Function Methods. Understanding how to encapsulate code for reuse is a fundamental skill in my journey as a developer.
 
 🧠 What I Learned
+
 1. Functions
 I learned how to declare and invoke functions to keep my code DRY (Don't Repeat Yourself).
 
