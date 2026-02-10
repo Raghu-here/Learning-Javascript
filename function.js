@@ -29,10 +29,10 @@ function countvowels(str) {
 }
 
 // For each in function
-let arr = [1, 2, 3, 4, 5];
-arr.forEach(function printval(val) {
-  console.log(val * val);
-});
+// let arr = [1, 2, 3, 4, 5];
+// arr.forEach(function printval(val) {
+//   console.log(val * val);
+// });
 
 // map method
 let Newarr = arr.map((val) => {
