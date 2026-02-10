@@ -37,7 +37,6 @@ Comparison ( ==, ===, !=, >, < )
 Logical ( &&, ||, ! )
 
 Conditional Statements:
-
 Writing if, else if, and else blocks.
 
 Date: January 30, 2026
