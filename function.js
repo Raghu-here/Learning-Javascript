@@ -42,7 +42,7 @@ console.log(Newarr);
 
 // filter method
 
-// let Newarr2 = arr.filter((val) => {
-//   return val % 2 === 0;
-// });
-// console.log(Newarr2);
+let Newarr2 = arr.filter((val) => {
+  return val % 2 === 0;
+});
+console.log(Newarr2);
