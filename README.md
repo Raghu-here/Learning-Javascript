@@ -27,7 +27,6 @@ Today, I dived deeper into JavaScript fundamentals to strengthen my logic-buildi
 🧠 Concepts Covered
 
 Operators:
-
 Arithmetic ( +, -, \*, /, % )
 
 Assignment ( =, +=, -= )
@@ -85,6 +84,7 @@ Storing Lists: Managing a list of products for an e-commerce site (like my Amazo
 Data Organization: Handling user information or game stats for my projects.
 
 Dynamic UI: Using .map() to render multiple components in a front-end framework.
+
 
 
 
