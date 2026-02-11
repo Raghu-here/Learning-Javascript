@@ -106,7 +106,6 @@ Parameters & Arguments: Passing data into functions to make them dynamic.
 2. Function Methods
 I explored how functions work when they are attached to objects or used to manipulate data types.
 
-Definition: A method is essentially a function that lives inside an object.
 
 
 
