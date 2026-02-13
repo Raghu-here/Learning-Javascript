@@ -4,4 +4,5 @@ for(let i=0;i<item.length;i++){
     let offer = item[i]/10;
     item[i] = item[i]-offer;
 }
+
 console.log(item);

@@ -78,16 +78,6 @@ slice(): Returns a shallow copy of a portion of an array.
 indexOf(): Finds the index of a specific element.
 
 
-💡 Practical Uses
-
-Storing Lists: Managing a list of products for an e-commerce site (like my Amazon clone!).
-
-Data Organization: Handling user information or game stats for my projects.
-
-Dynamic UI: Using .map() to render multiple components in a front-end framework.
-
-
-
 
 
 
