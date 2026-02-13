@@ -68,13 +68,6 @@ unshift(): Adds an element to the beginning.
 
 shift(): Removes the first element.
 
-2. Intermediate Operations
-
-splice(): Adds or removes elements at a specific index.
-
-slice(): Returns a shallow copy of a portion of an array.
-
-indexOf(): Finds the index of a specific element.
 
 
 
