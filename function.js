@@ -41,7 +41,6 @@ let Newarr = arr.map((val) => {
 console.log(Newarr);
 
 // filter method
-
 let Newarr2 = arr.filter((val) => {
   return val % 2 === 0;
 });
