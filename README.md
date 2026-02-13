@@ -59,15 +59,6 @@ An array is a special variable that can hold more than one value at a time. It i
 🛠️ Key Methods Learned
 I practiced several built-in methods that make arrays incredibly powerful:
 
-1. Basic Manipulation
-push(): Adds an element to the end of the array.
-
-pop(): Removes the last element.
-
-unshift(): Adds an element to the beginning.
-
-shift(): Removes the first element.
-
 
 
 
