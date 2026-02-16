@@ -53,8 +53,6 @@ Integration: Combining loops with strings to perform operations like character c
 Day 6:
 Today, I dived deep into JavaScript Arrays—the backbone of data management in web development. I explored how to store, manipulate, and iterate through data efficiently.
 
-📝 What is an Array?
-An array is a special variable that can hold more than one value at a time. It is an ordered list of elements, where each element has a numeric index starting from 0.
 
 
 
