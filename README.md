@@ -50,10 +50,6 @@ Loops: Implementing for and while loops to iterate through data structures and c
 
 Integration: Combining loops with strings to perform operations like character counting and text reversal.
 
-Day 6:
-Today, I dived deep into JavaScript Arrays—the backbone of data management in web development. I explored how to store, manipulate, and iterate through data efficiently.
-
-
 
 
 
