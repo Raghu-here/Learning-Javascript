@@ -56,8 +56,6 @@ Today, I dived deep into JavaScript Arrays—the backbone of data management in 
 📝 What is an Array?
 An array is a special variable that can hold more than one value at a time. It is an ordered list of elements, where each element has a numeric index starting from 0.
 
-🛠️ Key Methods Learned
-I practiced several built-in methods that make arrays incredibly powerful:
 
 
 
