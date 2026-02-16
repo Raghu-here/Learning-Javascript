@@ -38,10 +38,6 @@ Logical ( &&, ||, ! )
 Conditional Statements:
 Writing if, else if, and else blocks.
 
-Date: January 30, 2026
-
-📝 Overview
-Today I focused on mastering the fundamentals of Strings and Loops. These are essential building blocks for any developer, especially when it comes to handling data and automating repetitive tasks.
 
 
 
