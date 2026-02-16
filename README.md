@@ -21,22 +21,7 @@ Properties: Understanding how Keys and Values work together.
 
 Accessing Data: Using Dot notation and Bracket notation to retrieve information.
 
-🚀 Today's Progress
-Today, I dived deeper into JavaScript fundamentals to strengthen my logic-building skills for web development. I focused on how data is manipulated and how programs make decisions.
 
-🧠 Concepts Covered
-
-Operators:
-Arithmetic ( +, -, \*, /, % )
-
-Assignment ( =, +=, -= )
-
-Comparison ( ==, ===, !=, >, < )
-
-Logical ( &&, ||, ! )
-
-Conditional Statements:
-Writing if, else if, and else blocks.
 
 
 
