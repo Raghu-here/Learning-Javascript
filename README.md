@@ -17,10 +17,6 @@ Data Types: Explored Primitives like Strings, Numbers, Booleans, Null, and Undef
 
 Object Syntax: Learned how to group related data using {}.
 
-Properties: Understanding how Keys and Values work together.
-
-Accessing Data: Using Dot notation and Bracket notation to retrieve information.
-
 
 
 
