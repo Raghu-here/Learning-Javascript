@@ -11,11 +11,6 @@ Variable Declaration: Mastered let, const, and the differences between them (and
 
 Data Types: Explored Primitives like Strings, Numbers, Booleans, Null, and Undefined.
 
-2. Objects & Key-Value Pairs
-
-   I’ve moved into more complex data structures to represent real-world entities.
-
-Object Syntax: Learned how to group related data using {}.
 
 
 
