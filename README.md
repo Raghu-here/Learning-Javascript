@@ -7,10 +7,6 @@ Welcome to my JavaScript repository! I am an aspiring developer currently docume
 
    Understanding how to store and manipulate data is the foundation of everything.
 
-Variable Declaration: Mastered let, const, and the differences between them (and why we generally avoid var).
-
-Data Types: Explored Primitives like Strings, Numbers, Booleans, Null, and Undefined.
-
 
 
 
